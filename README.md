@@ -1,6 +1,3 @@
-# EFT_EDA
-Exploratory Data Analysis: Escape From Tarkov
-
 # Exploratory Data Analysis using Python - Escape From Tarkov Analysis
 
 *Analyzing 150 raids of my gameplay in Escape from Tarkov*
